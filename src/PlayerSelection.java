@@ -1,6 +1,6 @@
 //Name of Project: Ashesi Premier League-Lab01
 //Author: Lyse Claudia Irera
-//Date: 29/19/2025
+//Date: 9/19/2025
 //Purpose: Practice basic concepts in a single Java program
 // that helps a coach make decisions about player eligibility, position, and lineup.
 
